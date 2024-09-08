@@ -97,3 +97,5 @@ pub mod new_session_api;
 pub mod renegotiate_web_rtc_session_api;
 
 pub mod configuration;
+
+pub mod new_data_channel;
